@@ -1,0 +1,27 @@
+
+# PlanAhead Generated physical constraints 
+NET "sw[0]" LOC="N3";
+NET "sw[1]" LOC="E2";
+NET "clk" LOC="B8";
+NET "clr" LOC="A7";
+NET "setm" LOC="G12";
+NET "seth" LOC="C11";
+NET "an[3]" LOC="K14";
+NET "an[2]"	LOC="M13";
+NET "an[1]" LOC="J12";
+NET "an[0]" LOC="F12";
+NET "atog[6]" LOC="L14";
+NET "atog[5]" LOC="H12";
+NET "atog[4]" LOC="N14";
+NET "atog[3]" LOC="N11";
+NET "atog[2]" LOC="P12";
+NET "atog[1]" LOC="L13";
+NET "atog[0]" LOC="M12";
+NET "secondLow[0]" LOC="M5";
+NET "secondLow[1]" LOC="M11";
+NET "secondLow[2]" LOC="P7";
+NET "secondLow[3]" LOC="P6";
+NET "secondHigh[0]" LOC="N5";
+NET "secondHigh[1]" LOC="N4";
+NET "secondHigh[2]" LOC="P4";
+NET "secondHigh[3]" LOC="G1";
